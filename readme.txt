@@ -9,4 +9,9 @@ Option: if your version 2019b or beyond,
 then learn STATEFLOW ONRAMP too.
 
 Link video:
+1. SimulinkInstall&Setup
 https://youtu.be/IjUaz8F34Kk
+
+2.RADP_LinearSystem
+https://youtu.be/L3QOFMzKrvA
+
